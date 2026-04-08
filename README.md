@@ -126,7 +126,3 @@ markdown
 </p>
 ```
 
-**Comment utiliser :**  
-Copie tout le contenu ci-dessus et colle-le directement dans ton fichier `README.md`.
-
-Tu veux que je change le thème de couleurs ou que j'ajoute/supprime quelque chose avant que tu le copies ?
