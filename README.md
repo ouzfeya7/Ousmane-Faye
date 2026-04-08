@@ -95,7 +95,7 @@ markdown
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&border_radius=16" width="60%" alt="Streak Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" width="60%" alt="GitHub Stats"/>
+
 </p>
 
 ---
